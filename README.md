@@ -1,6 +1,12 @@
 # Desafio de Lógica: Lista de Amigos e Sorteio
+### Oracle Next Education (ONE) F2 T8
 
-Este projeto tem como objetivo fortalecer as habilidades em lógica de programação, desenvolvendo uma aplicação simples para gerenciar uma lista de amigos e sortear um nome aleatório.
+Este projeto faz parte do primeiro desafio do programa Oracle Next Education (ONE) F2 T8 e tem como objetivo fortalecer as habilidades em lógica de programação, a partir do desenvolvimento uma aplicação simples para gerenciar uma lista de amigos e sortear um nome aleatório.
+
+### Tecnologias utilizadas
+- JavaScript
+- CSS
+- HTML v5
 
 ### Funcionalidades
 
@@ -69,3 +75,7 @@ Sinta-se à vontade para contribuir com melhorias, correções ou novas funciona
 ### Licença
 
 Este projeto está licenciado sob a licença MIT.
+
+### Link do GitPages
+
+[https://brunorm86.github.io/challenge-one-amigo-secreto/](https://brunorm86.github.io/challenge-one-amigo-secreto/)
