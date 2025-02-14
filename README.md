@@ -83,6 +83,6 @@ Sinta-se à vontade para contribuir com melhorias, correções ou novas funciona
 
 Este projeto está licenciado sob a licença MIT.
 
-### Link do GitPages
+### Link do GitHub Pages
 
 [https://brunorm86.github.io/challenge-one-amigo-secreto/](https://brunorm86.github.io/challenge-one-amigo-secreto/)
