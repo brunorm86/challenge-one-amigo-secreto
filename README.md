@@ -75,7 +75,7 @@ Sinta-se à vontade para contribuir com melhorias, correções ou novas funciona
 ### Criador
 
 - Nome: Bruno Ricardo Machado
-- E-mail: (brunorm869@gmail.com
+- E-mail: brunorm869@gmail.com
 - Github: [https://github.com/brunorm86](https://github.com/brunorm86)
 - Linkedin: [https://www.linkedin.com/in/bruno-ricardo-machado/](https://www.linkedin.com/in/bruno-ricardo-machado/)
 
