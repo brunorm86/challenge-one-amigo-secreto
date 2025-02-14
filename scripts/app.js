@@ -2,6 +2,16 @@
 
 var listaAmigos = [];
 
+function renderizarListaAmigos() {
+    const ul = document.getElementById("listaAmigos");
+    ul.innerHTML = "";
+    listaAmigos.forEach(amigo => {
+        const li = document.createElement("li");
+        li.innerText = amigo;
+        ul.appendChild(li);
+    });
+}
+
 function verificarSeAmigoRepetido(amigo){
 return listaAmigos.includes(amigo)
 }
@@ -26,6 +36,7 @@ function adicionarAmigo(){
     }
     console.log(listaAmigos)
     document.getElementById("amigo").value = "";
+    renderizarListaAmigos();
     }
 
 function sortearAmigo(){
@@ -33,7 +44,22 @@ function sortearAmigo(){
     if (listaAmigos.length==0){
         alert("A lista de amigos está vazia!")
     } else {
+        const index = Math.floor(Math.random() * listaAmigos.length)
 
-    return amigo;
+        const amigo = listaAmigos[index]
+        listaAmigos.splice(index,1);
+        console.log(amigo);
+        exibirAmigoSorteado(amigo);
+        renderizarListaAmigos();
+    
 }
 }
+
+function exibirAmigoSorteado(amigo){
+    const ul = document.getElementById("resultado");
+    ul.innerHTML = "";
+    const li = document.createElement("li");
+    li.innerText = "O amigo sorteado foi "+amigo+"!";
+    ul.appendChild(li);
+}
+
