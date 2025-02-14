@@ -72,6 +72,13 @@ Este projeto faz parte do primeiro desafio do programa Oracle Next Education (ON
 
 Sinta-se à vontade para contribuir com melhorias, correções ou novas funcionalidades. Basta abrir uma issue ou enviar um pull request.
 
+### Criador
+
+- Nome: Bruno Ricardo Machado
+- E-mail: [brunorm869@gmail.com](brunorm869@gmail.com)
+- Github: [https://github.com/brunorm86](https://github.com/brunorm86)
+- Linkedin: [https://www.linkedin.com/in/bruno-ricardo-machado/](https://www.linkedin.com/in/bruno-ricardo-machado/)
+
 ### Licença
 
 Este projeto está licenciado sob a licença MIT.
